@@ -1,0 +1,11 @@
+# Table 6. Intended-use-specific quality and regulatory considerations for salivary gland organoids and derived products
+
+| Application | Quality and evidence priorities | Regulatory considerations |
+| --- | --- | --- |
+| Research-grade organoids | Document tissue source, donor and species, culture conditions, passage history, cellular composition, contamination controls and assay reproducibility. | Standardization supports reproducible research but does not establish clinical-grade suitability. |
+| PDO drug-sensitivity testing | Establish tumor authenticity, analytical performance, clinically relevant assay turnaround, clinical validity and clinical utility. | In the US, CLIA governs clinical laboratory quality; the FDA's 2024 LDT rule was vacated in 2025. In the EU, IVDR requirements and the conditional Article 5(5) exemption depend on intended use and setting [N7–N9]. |
+| Organoid-derived cell therapy | GMP manufacturing and traceability; product-specific release criteria for identity, purity, potency, viability and sterility. Evaluate tumorigenicity, biodistribution, persistence, functional integration and long-term safety during development. | EU ATMP or US drug/biological-product requirements may apply. Development-stage safety studies and clinical follow-up are distinct from routine batch-release testing [N4, N12]. |
+| Therapeutic EVs | Characterize EV preparations and contaminants; establish mechanism-relevant potency and dose metrics, biodistribution, clearance, stability and manufacturing comparability. | MISEV2023 guides EV characterization and reporting but does not provide regulatory release specifications or replace GMP and product-specific validation¹⁷⁹. |
+| Salivary organoid-based BoNT assays | Establish assay reproducibility, functional relevance and benchmarking against accepted neuronal potency methods. | Salivary organoid assays remain exploratory and have not been incorporated into pharmacopoeial monographs. |
+
+Requirements depend on the intended application, product characteristics and jurisdiction. Quality attributes requiring product-specific release criteria should be distinguished from developmental safety studies and long-term clinical follow-up.
